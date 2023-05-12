@@ -107,7 +107,7 @@ public abstract class TodoRoomDatabase extends RoomDatabase {
             /**
              * Inserting data in user_table
              */
-            userDao.insert(new EUser(0, "Susan", "123"));
+            userDao.insert(new EUser(0, "Sanjog", "123"));
             return null;
         }
     }
