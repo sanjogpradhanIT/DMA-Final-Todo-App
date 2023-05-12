@@ -2,7 +2,7 @@
 
 <h1>Features of TodoApp</h1>
 <ul>
-	<li>Add your own todo with title, description, complete status and date.</li>
+	<li>Add your todo with title, description, complete status and date.</li>
 	<li>Edit the todo that were added by double tab the given each lists.</li>
 	<li>Display the todo specific to the user in the home page.</li>
 	<li>Delete individual todo by swiping.</li>
@@ -24,8 +24,8 @@
 
 ![starting](RecordAndScreenshot/start.gif)
 
-**The above gif file show the starting phase of the application by clicking the todo icon from the mobile.
-Starting the app will navigate the user to the main page i.e. the loin page.**
+**The above gif file shows the starting phase of the application by clicking the todo icon from the mobile.
+When the program is launched, the user is taken to the main page, also known as the front page.**
 
 ---
 
@@ -40,8 +40,7 @@ Starting the app will navigate the user to the main page i.e. the loin page.**
 
 ![signupValidation](RecordAndScreenshot/validationSignup.gif)
 
-**The above two Records illustrate the registration form with validation like an empty field, the user already exists and the password does not match. After
-registration is done, it will show the toast message saying register successful.**
+**The aforementioned two records serve as an example of a registration form containing validation features including an empty field, an existing user, and a password that does not match. Once registration is complete, a toast message indicating registration completion will appear.**
 
 ---
 
@@ -51,10 +50,7 @@ registration is done, it will show the toast message saying register successful.
 
 ![login](RecordAndScreenshot/login.gif)
 
-**The record is all about the login system in the application with validation like the user does not
-exist, empty fields and username, as well as the password, does not match. After the login is successful 
-it will redirect to the todo list page through which we can view the profile,delete completed tasks only,
-delete all tasks,log out of our account and can do crud operation on the tasks.**
+**The record includes all about the application's login process, including validation such as the user does not exist, empty forms, and username and password that do not match. Once logged in successfully, we may check our profile, remove just completed tasks, delete all tasks, log out of our account, and perform basic operations on the tasks via the to-do list page.**
 
 ---
 
@@ -64,23 +60,18 @@ delete all tasks,log out of our account and can do crud operation on the tasks.*
 
 ![Add](RecordAndScreenshot/Add.gif)
 
-**The Record shows the process of adding tasks to the todo list. The task can br added into the list by clicking floatingactionbutton
-which lies at the bottom left corner, then it will redirect to the task insert form through which tasks detail are inserted after 
-clicking save button and the form consists of some validations as well . Lastly, it will redirect to the todo list page by showing 
-the task details according to preferred priority color chosen for each task.**
+**The Record details how tasks are added to the to-do list. The task may be added to the list by clicking the floating action button in the bottom left corner. After clicking the save button, the form will then redirect to the task insert form, where the task's details can be entered. Finally, it will reroute to the to-do list page, where the task details will be shown in accordance with the desired priority color selected for each activity.**
 
 ---
 
 ### Update
 
-**double tab the given items for update.**
+**Double tab the given items for update.**
 
 ![update](RecordAndScreenshot/update.gif)
 
-**This Record is all about update process for the task. A double tab event is used to update the task.
-After this event is done it will redirect to the task update form with related information in it. When 
-the update button is clicked, then it will redirect back to the todo lists page and if the cancel button 
-is clicked then an update will not happen to that task.**
+**This Record is devoted to the task updating procedure. The job is updated by a double tab event.
+When this event is finished, a redirect to the task update form with the pertinent data will appear. When the update button is used, the website will reload to display the to-do list, and when the cancel button is pressed, the task will not be updated.**
 
 ---
 
@@ -90,19 +81,17 @@ is clicked then an update will not happen to that task.**
 
 ![Delete](RecordAndScreenshot/Delete.gif)
 
-**To delete the task by swiping the task left or right will automatically delete the task and it 
-will show a toast message when the task is deleted.**
+**Swiping the task left or right will immediately delete the task, and a toast notification will appear after the task has been erased.**
 
 ---
 
 ### User Profile
 
-**In user profile page update password and delete password can be done.**
+**In user profile page change password and delete password can be done.**
 
 ![profile](RecordAndScreenshot/userprofile.gif)
 
-**By clicking the profile name or icon from the toolbar, it will redirect us to the user profile page 
-from where we can delete our personal account and update password.**
+**We may access the user profile page, where we can deactivate our individual account and change our password, by clicking the profile name or icon in the toolbar.**
 
 ---
 
